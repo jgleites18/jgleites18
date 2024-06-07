@@ -10,7 +10,9 @@
 ![Python](https://img.shields.io/badge/-python-white?style=flat-square&logo=python)
 ![Dart](https://img.shields.io/badge/-dart-blue?style=flat-square&logo=dart)
 ![React Native](https://img.shields.io/badge/-react-white?style=flat-square&logo=react)
+![Flutter](https://img.shields.io/badge/-flutter-white?style=flat-square&logo=flutter)
 
+A mais flutter não é linguagem....quem te pergountou???
 
 
 
